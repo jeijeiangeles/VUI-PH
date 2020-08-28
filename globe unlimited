@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 1.5,
+    "ConfigVersion": 1.6,
     "ConfigUpdateMsg": "New VUI GTM",
     "SshPort": "442",
     "SshStunnelPort": "443",
@@ -145,36 +145,7 @@
 			"SubInfo": "Japan 2",
 			"Server": "gtm7.vuiphilippine.com",
 			"Location": "JP"
-		},
- 
-      {
-			"SubInfo": "Korea 1",
-			"Server": "gtm8.vuiphilippine.com",
-			"Location": "KR"
-		},
- 
-      {
-			"SubInfo": "Korea 2",
-			"Server": "gtm9.vuiphilippine.com",
-			"Location": "KR"
-		},
- 
-      {
-			"SubInfo": "USA 1",
-			"Server": "gtm10.vuiphilippine.com",
-			"Location": "US"
-		},
- 
-      {
-			"SubInfo": "USA 2",
-			"Server": "gtm11.vuiphilippine.com",
-			"Location": "US"
-},
-	
-      {
-			"SubInfo": "USA 3",
-			"Server": "gtm12.vuiphilippine.com",
-			"Location": "US"
+		
 		}
 	]
 }
