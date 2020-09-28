@@ -106,45 +106,63 @@
 		},
 	
       {
-			"SubInfo": "Singapore 1",
+			"SubInfo": "Server 1",
 			"Server": "gtm1.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Singapore 2",
+			"SubInfo": "Server 2",
 			"Server": "gtm2.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Singapore 3",
+			"SubInfo": "Server 3",
 			"Server": "gtm3.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Singapore 4",
+			"SubInfo": "Server 4",
 			"Server": "gtm4.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Singapore 5",
+			"SubInfo": "Server 5",
 			"Server": "gtm5.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Japan 1",
+			"SubInfo": "Server 6",
 			"Server": "gtm6.vuiphilippine.com",
-			"Location": "JP"
+			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Japan 2",
+                        "SubInfo": "Server 7",
+			"Server": "gtm6.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Server 8",
+			"Server": "gtm6.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Server 9",
+			"Server": "gtm6.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 10",
 			"Server": "gtm7.vuiphilippine.com",
-			"Location": "JP"
+			"Location": "SG"
 		
 		}
 	]
