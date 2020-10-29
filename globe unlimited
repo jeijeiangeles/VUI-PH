@@ -1,6 +1,6 @@
 {
-    "ConfigVersion": 1.8,
-    "ConfigUpdateMsg": "New VUI GTM",
+    "ConfigVersion": 1.9,
+    "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "442",
     "SshStunnelPort": "443",
     "SquidPort": "8080",
@@ -100,9 +100,21 @@
 	],
 	"Servers": [ 
 	{
-			"SubInfo": "Auto Select Servers",
-			"Server": "gtm1.vuiphilippine.com",
-			"Location": "Auto"
+			"SubInfo": "PRM 1",
+			"Server": "gtmp1.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+	{
+			"SubInfo": "PRM 2",
+			"Server": "gtmp2.vuiphilippine.com",
+			"Location": "SG"
+		},
+		
+	{
+			"SubInfo": "PRM 3",
+			"Server": "gtmp3.vuiphilippine.com",
+			"Location": "SG"
 		},
 	
       {
