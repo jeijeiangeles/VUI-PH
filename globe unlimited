@@ -100,19 +100,19 @@
 	],
 	"Servers": [ 
 	{
-			"SubInfo": "PRM 1",
+			"SubInfo": "Premium 1",
 			"Server": "gtmp1.vuiphilippine.com",
 			"Location": "SG"
 		},
 	
 	{
-			"SubInfo": "PRM 2",
+			"SubInfo": "Premium 2",
 			"Server": "gtmp2.vuiphilippine.com",
 			"Location": "SG"
 		},
 		
 	{
-			"SubInfo": "PRM 3",
+			"SubInfo": "Premium 3",
 			"Server": "gtmp3.vuiphilippine.com",
 			"Location": "SG"
 		},
