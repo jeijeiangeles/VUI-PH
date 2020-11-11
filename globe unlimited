@@ -86,15 +86,7 @@
 			"CustomProxy": "",
 			"Sni": "",
 			"Payload": "e/KnATRm35vcRsAOIrhirfj7sMj6EqsBdaoEhCtfSdVl2XX7rNU/k1vleQBTmNU2ObmYJCpSdjswbatcytUU9097+ffLZog8gCJTKjyeDCg="
-		},
-		{
-			"Name": "Fast and Secure - INJECT",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Sni": "",
-			"Payload": "yCicH3LoDzhO0tuM/TKV7bIRQRpMQWc8WMP55Z3AfpGyhkdwzluCiOp25/cXzWNMVpTGFWJ1yMFIMiq2djjebA=="
+		
 		}
 		
 	],
