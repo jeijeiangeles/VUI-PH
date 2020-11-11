@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 2.3,
+    "ConfigVersion": 2.4,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "442",
     "SshStunnelPort": "443",
-    "SquidPort": "8080",
+    "SquidPort": "8010",
 	"Spoofs": [  
      {
 			"Name": "GTM 1 - INJECT",
@@ -115,6 +115,42 @@
 			"Location": "SG"
 		},
 	
+	{
+			"SubInfo": "Premium 5",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+					},
+	
+	{
+			"SubInfo": "Premium 6",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+					},
+	
+	{
+			"SubInfo": "Premium 7",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+					},
+	
+	{
+			"SubInfo": "Premium 8",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+					},
+	
+	{
+			"SubInfo": "Premium 9",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+					},
+	
+	{
+			"SubInfo": "Premium 10",
+			"Server": "gtmp4.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
       {
 			"SubInfo": "Server 1",
 			"Server": "gtm1.vuiphilippine.com",
@@ -148,30 +184,30 @@
       {
 			"SubInfo": "Server 6",
 			"Server": "gtm6.vuiphilippine.com",
-			"Location": "US"
+			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Server 7",
-			"Server": "gtm6.vuiphilippine.com",
-			"Location": "US"
+			"Server": "gtm7.vuiphilippine.com",
+			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Server 8",
-			"Server": "gtm6.vuiphilippine.com",
-			"Location": "US"
+			"Server": "gtm8.vuiphilippine.com",
+			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Server 9",
-			"Server": "gtm6.vuiphilippine.com",
+			"Server": "gtm9.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Server 10",
-			"Server": "gtm7.vuiphilippine.com",
+			"Server": "gtm10.vuiphilippine.com",
 			"Location": "SG"
 		
 		}
