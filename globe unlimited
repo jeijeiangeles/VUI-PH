@@ -117,37 +117,37 @@
 	
 	{
 			"SubInfo": "Premium 5",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp5.vuiphilippine.com",
 			"Location": "SG"
-					},
+		},
 	
 	{
 			"SubInfo": "Premium 6",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp6.vuiphilippine.com",
 			"Location": "SG"
-					},
+		},
 	
 	{
 			"SubInfo": "Premium 7",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp7.vuiphilippine.com",
 			"Location": "SG"
-					},
+		},
 	
 	{
 			"SubInfo": "Premium 8",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp8.vuiphilippine.com",
 			"Location": "SG"
-					},
+		},
 	
 	{
 			"SubInfo": "Premium 9",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp9.vuiphilippine.com",
 			"Location": "SG"
-					},
+		},
 	
 	{
 			"SubInfo": "Premium 10",
-			"Server": "gtmp4.vuiphilippine.com",
+			"Server": "gtmp10.vuiphilippine.com",
 			"Location": "SG"
 		},
 	
