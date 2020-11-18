@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 2.4,
+    "ConfigVersion": 2.5,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "442",
     "SshStunnelPort": "443",
@@ -58,7 +58,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "yATJGMSsJEDS0KZ0OBlnTIZqhBwmlwYrBTRBZ591KufZBd3/CPrbdxkKCVzx6oguDCg32NQM8vMZXnLaJRu8WEYAmdVqaqe9+mcZMB11xyh8h8dQPgHTsnQr8NVcuhav1/ylj2kPVDNyseRG9/HOXER/ihMMOVDHdaD/mMb8QTtVKqdbting1U3UvoaEOLZQKjXJiNI0Z+EgKlg7UriltzVBZQqD5IH6XS/7cd+/QrA="
+			"Payload": "e+4IY8gbh+vFBSQAtImlQen/Pz98Nf/syasIXL6yRjnK8SJ/UIuRytMN3bk5XkrglQ96w31dDam1Y50VY8ycbZ37zaMzk8/o5dRClynl0M819KYajY8yDsR4MGZS1ZjTghU/Cz60ZAPy+1/nhFH5KEDbxUW998UGWzY+b3JQb7I="
 		}, 
 		{
 			"Name": "GTM 7- INJECT",
