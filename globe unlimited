@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 2.9,
+    "ConfigVersion": 3.1,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "442",
     "SshStunnelPort": "443",
@@ -75,62 +75,123 @@
 	"Servers": [ 
 	{
 			"SubInfo": "Premium 1",
-			"Server": "prem11.vuiphilippine.com",
+			"Server": "prem1.vui-phili.com",
 			"Location": "SG"
 		},
 	
 	{
 			"SubInfo": "Premium 2",
-			"Server": "prem12.vuiphilippine.com",
+			"Server": "prem2.vui-phili.com",
 			"Location": "SG"
 		},
 		
 	{
 			"SubInfo": "Premium 3",
-			"Server": "prem13.vuiphilippine.com",
+			"Server": "prem3.vui-phili.com",
 			"Location": "SG"
 		},
 	
 	{
 			"SubInfo": "Premium 4",
-			"Server": "prem14.vuiphilippine.com",
+			"Server": "prem4.vui-phili.com",
 			"Location": "SG"
 		},
 	
 	{
 			"SubInfo": "Premium 5",
-			"Server": "prem15.vuiphilippine.com",
+			"Server": "prem5.vui-phili.com",
 			"Location": "SG"
 		
 		},
 	
       {
+                        "SubInfo": "Premium 6",
+			"Server": "prem6.vui-phili.com",
+			"Location": "SG"
+		},
+	
+	{
+			"SubInfo": "Premium 7",
+			"Server": "prem7.vui-phili.com",
+			"Location": "SG"
+		},
+		
+	{
+			"SubInfo": "Premium 8",
+			"Server": "prem8.vui-phili.com",
+			"Location": "SG"
+		},
+	
+	{
+			"SubInfo": "Premium 9",
+			"Server": "prem9.vui-phili.com",
+			"Location": "SG"
+		},
+	
+	{
+			"SubInfo": "Premium 10",
+			"Server": "prem10.vui-phili.com",
+			"Location": "SG"
 			"SubInfo": "Server 1",
-			"Server": "vip11.vuiphilippine.com",
+		},
+ 
+      {
+			"SubInfo": "Server 1",
+			"Server": "vip1.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Server 2",
-			"Server": "vip12.vuiphilippine.com",
+			"Server": "vip2.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Server 3",
-			"Server": "vip13.vuiphilippine.com",
+			"Server": "vip3.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Server 4",
-			"Server": "vip14.vuiphilippine.com",
+			"Server": "vip4.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Server 5",
-			"Server": "vip15.vuiphilippine.com",
+			"Server": "vip5.vui-phili.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 6",
+			"Server": "vip6.vui-phili.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 7",
+			"Server": "vip7.vui-phili.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 8",
+			"Server": "vip8.vui-phili.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 9",
+			"Server": "vip9.vui-phili.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Server 10",
+			"Server": "vip10.vui-phili.com",
 			"Location": "SG"
 		
 		}
