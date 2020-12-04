@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.1,
+    "ConfigVersion": 3.2,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -76,7 +76,7 @@
 	{
 			"SubInfo": "Premium 01",
 			"Server": "prem1.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
@@ -100,7 +100,7 @@
       {
                         "SubInfo": "Premium 05",
 			"Server": "prem5.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
@@ -124,7 +124,7 @@
       {
                         "SubInfo": "Premium 09",
 			"Server": "prem9.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
@@ -137,7 +137,7 @@
 			
                         "SubInfo": "VIP 01",
 			"Server": "vip1.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
@@ -161,7 +161,7 @@
       {
                         "SubInfo": "VIP 05",
 			"Server": "vip5.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
@@ -185,7 +185,7 @@
       {
                         "SubInfo": "VIP 09",
 			"Server": "vip9.vui-phili.com",
-			"Location": "Auto"
+			"Location": "SG"
 		},
 	
       {
