@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 3.3,
+    "ConfigVersion": 3.4,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
-    "SshPort": "442",
+    "SshPort": "22",
     "SshStunnelPort": "443",
-    "SquidPort": "8080",
+    "SquidPort": "80",
 	"Spoofs": [  
      {
 			"Name": "GTM 1 - INJECT",
@@ -75,122 +75,122 @@
 	"Servers": [ 
 	{
 			"SubInfo": "Premium 01",
-			"Server": "gtmp1.vui-phili.com",
+			"Server": "pr1.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 02",
-			"Server": "gtmp2.vui-phili.com",
+			"Server": "pr2.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 03",
-			"Server": "gtmp3.vui-phili.com",
+			"Server": "pr3.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 04",
-			"Server": "gtmp4.vui-phili.com",
+			"Server": "pr4.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Premium 05",
-			"Server": "gtmp5.vui-phili.com",
+			"Server": "pr5.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 06",
-			"Server": "gtmp1.vui-phili.com",
+			"Server": "pr6.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 07",
-			"Server": "gtmp2.vui-phili.com",
+			"Server": "pr7.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 08",
-			"Server": "gtmp3.vui-phili.com",
+			"Server": "pr8.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Premium 09",
-			"Server": "gtmp4.vui-phili.com",
+			"Server": "pr9.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 10",
-			"Server": "gtmp5.vui-phili.com",
+			"Server": "pr10.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			
                         "SubInfo": "VIP 01",
-			"Server": "gtm1.vui-phili.com",
+			"Server": "vi1.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 02",
-			"Server": "gtm2.vui-phili.com",
+			"Server": "vi2.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 03",
-			"Server": "gtm3.vui-phili.com",
+			"Server": "vi3.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 04",
-			"Server": "gtm4.vui-phili.com",
+			"Server": "vi4.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "VIP 05",
-			"Server": "gtm5.vui-phili.com",
+			"Server": "vi5.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 06",
-			"Server": "gtm1.vui-phili.com",
+			"Server": "vi6.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 07",
-			"Server": "gtm2.vui-phili.com",
+			"Server": "vi7.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 08",
-			"Server": "gtm3.vui-phili.com",
+			"Server": "vi8.vui-phili.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "VIP 09",
-			"Server": "gtm4.vui-phili.com",
+			"Server": "vi9.vui-phili.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 10",
-			"Server": "gtm5.vui-phili.com",
+			"Server": "vi10.vui-phili.com",
 			"Location": "SG"
 		
 		}
