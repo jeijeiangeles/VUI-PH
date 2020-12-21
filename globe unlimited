@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.4,
+    "ConfigVersion": 3.5,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "22",
     "SshStunnelPort": "443",
@@ -12,7 +12,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg+J7JHfyc4Pf4NAE4IG5yXblrbiwdK08CEvCTYL8kJtF/3uKeeG24MRxUpI+gwnNqsGgduN0ioEOgoQZYGSKl/XjDNR30Akt6QJ5Q04TmZnPVWtKjmG91wJAKL1d/DpeGdNQzv25BJPnIOveoIdjd4+RyCAmqeI98Q4OCDX16eGgtoATBFZMb8fmMvhMob/sSk5rfg0j81Z679DY5YG94zQ"
 		}, 
 	  {
 			"Name": "GTM 2 - INJECT",
@@ -21,7 +21,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg8vLIxE4qYSQVfnm+alcP4CKlBH19USirsWRqkb2xWXo4NA/3RNT6wVtpotNR1G+449F2DfiZyZM9exw1TrCIYafEzAtwtXLvJOzw6EKExHtWkFlYf2jbltLZMPWQ0m6WLw+lBMF57Auw6V6Xy0zQL9cFRlv/IIp0N2+q3G90ksweDvRPm8BMnmsgdcrnXv4kWB+w32H24AANzjQpzTxVECkgTroCMEShqJukw6TZ8e/w=="
 		}, 
 	   {
 			"Name": "GTM 3 - INJECT",
@@ -30,7 +30,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg8Xe9IAVg+aVZk9oEyknMnqUuJzYoa7VmMJfwlvWHxdejJ5ykRRTC/xCwrXzrFa6apKuK2R/eFxdpB90n1k0Aqmmt3NljzBj+a/VDzC/VQ9ALXbZsG7AhtebJBH3Yo5rvAjqyvCCYCIG4PWAjqnSMSVt8xhSyQBv8krqm5k+ZjP1OOzfsDxqzfFvPq1/lV3lch+Si7GH74neytXi93wz+iu"
 		}, 
 		{
 			"Name": "GTM 4 - INJECT",
@@ -75,122 +75,181 @@
 	"Servers": [ 
 	{
 			"SubInfo": "Premium 01",
-			"Server": "pr1.vui-phili.com",
+			"Server": "prem1.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 02",
-			"Server": "pr2.vui-phili.com",
+			"Server": "prem2.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 03",
-			"Server": "pr3.vui-phili.com",
+			"Server": "prem3.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 04",
-			"Server": "pr4.vui-phili.com",
+			"Server": "prem4.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Premium 05",
-			"Server": "pr5.vui-phili.com",
+			"Server": "prem5.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 06",
-			"Server": "pr6.vui-phili.com",
+			"Server": "prem6.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 07",
-			"Server": "pr7.vui-phili.com",
+			"Server": "prem7.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "Premium 08",
-			"Server": "pr8.vui-phili.com",
+			"Server": "prem8.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "Premium 09",
-			"Server": "pr9.vui-phili.com",
+			"Server": "prem9.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "Premium 10",
-			"Server": "pr10.vui-phili.com",
+			"Server": "prem10.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
-			
+			"SubInfo": "Premium 11",
+			"Server": "prem11.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 12",
+			"Server": "prem12.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 13",
+			"Server": "prem13.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Premium 14",
+			"Server": "prem14.vuiphilipine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 15",
+			"Server": "prem15.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 16",
+			"Server": "prem16.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 17",
+			"Server": "prem17.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Premium 18",
+			"Server": "prem18.vuiphilipine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 19",
+			"Server": "prem19.vuiphilipine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 20",
+			"Server": "prem20.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
                         "SubInfo": "VIP 01",
-			"Server": "vi1.vui-phili.com",
+			"Server": "vip1.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 02",
-			"Server": "vi2.vui-phili.com",
+			"Server": "vip2.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 03",
-			"Server": "vi3.vui-phili.com",
+			"Server": "vip3.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 04",
-			"Server": "vi4.vui-phili.com",
+			"Server": "vip4.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "VIP 05",
-			"Server": "vi5.vui-phili.com",
+			"Server": "vip5.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 06",
-			"Server": "vi6.vui-phili.com",
+			"Server": "vip6.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 07",
-			"Server": "vi7.vui-phili.com",
+			"Server": "vip7.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
 			"SubInfo": "VIP 08",
-			"Server": "vi8.vui-phili.com",
+			"Server": "vip8.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
                         "SubInfo": "VIP 09",
-			"Server": "vi9.vui-phili.com",
+			"Server": "vip9.vuiphilipine.com",
 			"Location": "SG"
 		},
 	
       {
 			"SubInfo": "VIP 10",
-			"Server": "vi10.vui-phili.com",
+			"Server": "vip10.vuiphilipine.com",
 			"Location": "SG"
 		
 		}
