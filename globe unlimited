@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 3.6,
+    "ConfigVersion": 3.7,
     "ConfigUpdateMsg": "New VUI premium Servers Added",
     "SshPort": "22",
     "SshStunnelPort": "443",
